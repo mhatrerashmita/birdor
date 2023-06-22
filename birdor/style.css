@@ -1,0 +1,35 @@
+body{
+    background-color: #F5EFE7;
+}
+.title-image
+{
+    width: 130%;
+
+}
+.navbar-brand{
+   color: #30A2FF;
+    font-size: 3.5rem;
+}
+.nav-link
+{
+    color: #30A2FF;
+}
+.row
+{
+    padding: 10% 20%;
+}
+.best
+{
+    color:#30A2FF;
+    font-family:"Montserrat";
+    font-weight: lighter;
+    font-size: 3.5rem;
+}
+.bird ,.bluebird
+{
+   
+    font-family:"Montserrat";
+    font-weight: lighter;
+    font-size: 3.5rem;
+}
+
